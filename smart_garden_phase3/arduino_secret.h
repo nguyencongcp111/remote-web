@@ -1,0 +1,2 @@
+#define SECRET_SSID "Truong"
+#define SECRET_PASSWORD "0904197266"
